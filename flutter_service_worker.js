@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "3d3abf0e5a4be93e24bf525e0ee44a84",
+const RESOURCES = {"flutter_bootstrap.js": "7c02f380958ad21b63de05ba1a4bafe7",
 "version.json": "8b67b4f0ac1ebcb1d2150e7ed6b2d8b6",
 "index.html": "b40fe1da489d3127c676a2a64fb0f1c8",
 "/": "b40fe1da489d3127c676a2a64fb0f1c8",
-"main.dart.js": "962339277a7e66c38a6d8e544077c615",
+"main.dart.js": "cdde83ae1a31b1dfaebf6dcbdb9a1f47",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "main.dart.mjs": "4c280ca1d4a4834e090ec7b77080270e",
@@ -16,7 +16,7 @@ const RESOURCES = {"flutter_bootstrap.js": "3d3abf0e5a4be93e24bf525e0ee44a84",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "16075fe083841b8cef84cb2b77160fe6",
-"main.dart.wasm": "4a3781937aaf6ae105d2a16df2c7035f",
+"main.dart.wasm": "e68122a792961e108e2e2f918e006924",
 "assets/AssetManifest.json": "11f61a89887ae665014e7c464246e93a",
 "assets/NOTICES": "d63489be4735c9ec4b43b1a46b57a034",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
