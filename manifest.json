@@ -1,6 +1,6 @@
 {
-    "name": "ez_clinic",
-    "short_name": "ez_clinic",
+    "name": "ez_clinics",
+    "short_name": "ez_clinics",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
